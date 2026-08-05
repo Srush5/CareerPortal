@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "company": "ABC Technologies",
+    "location": "Ahmedabad",
+    "experience": "2-4 Years",
+    "type": "Full Time",
+    "salary": "8-12 LPA",
+    "postedDate": "2026-07-20",
+    "skills": ["React", "JavaScript", "CSS"],
+    "description": "We are looking for an enthusiastic Frontend Developer to build scalable web applications and high-performance interfaces.",
+    "responsibilities": [
+      "Develop user-facing features using modern JavaScript frameworks.",
+      "Optimize components for maximum performance across a vast array of web-capable devices and browsers."
+    ],
+    "benefits": ["Health Insurance", "Remote Work Options", "Flexible Timings", "Provident Fund"],
+    "companyInfo": "ABC Technologies is a global leader in digital transformation, helping Fortune 500 companies innovate faster.",
+    "remoteType": "Remote"
+  },
+  {
+    "id": 2,
+    "title": "React.js Engineer",
+    "company": "Tech Solutions",
+    "location": "Pune",
+    "experience": "1-3 Years",
+    "type": "Full Time",
+    "salary": "6-10 LPA",
+    "postedDate": "2026-07-22",
+    "skills": ["React", "Redux", "Tailwind"],
+    "description": "Build modern portals and dynamic user interfaces using React and modern styling workflows.",
+    "responsibilities": [
+      "Collaborate with UI/UX designers and back-end engineers.",
+      "Write clean, maintainable, and reusable code."
+    ],
+    "benefits": ["Learning Stipend", "Health Insurance", "Hybrid Working"],
+    "companyInfo": "Tech Solutions focuses on cutting-edge enterprise applications and cloud architecture solutions.",
+    "remoteType": "Hybrid"
+  },
+  {
+    "id": 3,
+    "title": "Software Developer",
+    "company": "Innovate Labs",
+    "location": "Mumbai",
+    "experience": "3-5 Years",
+    "type": "Contract",
+    "salary": "12-18 LPA",
+    "postedDate": "2026-07-15",
+    "skills": ["JavaScript", "Node.js", "React"],
+    "description": "Design end-to-end features for high-traffic financial applications.",
+    "responsibilities": [
+      "Build scalable backend microservices and integrate slick frontend dashboards."
+    ],
+    "benefits": ["Flexible Schedule", "Annual Performance Bonus"],
+    "companyInfo": "Innovate Labs builds next-gen fintech software solutions for global banking institutions.",
+    "remoteType": "Office"
+  },
+  {
+    "id": 4,
+    "title": "UI/UX Frontend Developer",
+    "company": "PixelCraft Studios",
+    "location": "Bangalore",
+    "experience": "2-5 Years",
+    "type": "Full Time",
+    "salary": "10-15 LPA",
+    "postedDate": "2026-07-25",
+    "skills": ["React", "Figma", "SCSS", "JavaScript"],
+    "description": "Bridge the gap between design and technical implementation with clean component architectures.",
+    "responsibilities": ["Translate UI/UX wireframes into responsive React components."],
+    "benefits": ["MacBook Pro Provided", "Remote Work Stipend", "Health Care"],
+    "companyInfo": "PixelCraft Studios is a design-forward digital product agency crafting immersive experiences.",
+    "remoteType": "Remote"
+  },
+  {
+    "id": 5,
+    "title": "Junior React Developer",
+    "company": "NextGen Softwares",
+    "location": "Ahmedabad",
+    "experience": "0-2 Years",
+    "type": "Full Time",
+    "salary": "4-6 LPA",
+    "postedDate": "2026-07-26",
+    "skills": ["HTML", "CSS", "JavaScript", "React"],
+    "description": "Kickstart your career working alongside senior engineers on enterprise web applications.",
+    "responsibilities": ["Assist in bug fixes, testing, and feature delivery."],
+    "benefits": ["Mentorship Program", "Flexible Shifts"],
+    "companyInfo": "NextGen Softwares incubates tech talent and builds enterprise products.",
+    "remoteType": "Hybrid"
+  }
+]
