@@ -10,7 +10,7 @@ export default function App() {
   return (
     <ThemeProvider>
       <BookmarkProvider>
-        <BrowserRouter basename={repoName}>
+        <BrowserRouter basename="/CareerPortal">
           <AppRoutes />
         </BrowserRouter>
       </BookmarkProvider>
