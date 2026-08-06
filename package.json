@@ -2,7 +2,7 @@
   "name": "career-portal",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Srush5.github.io/CareerPortal",
+  "homepage": "https://Srush5.github.io/careerportal",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
