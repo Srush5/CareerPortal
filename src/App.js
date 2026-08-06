@@ -1,5 +1,5 @@
 import React from "react";
-import { HashRouter } from "react-router-dom";
+import { BrowserRouter, BrowserRouter } from "react-router-dom";
 import AppRoutes from "./routes/AppRoutes";
 import { ThemeProvider } from "./context/ThemeContext";
 import { BookmarkProvider } from "./context/BookmarkContext";
@@ -10,9 +10,9 @@ export default function App() {
   return (
     <ThemeProvider>
       <BookmarkProvider>
-        <HashRouter>
+        <BrowserRouter>
           <AppRoutes />
-        </HashRouter>
+        </BrowserRouter>
       </BookmarkProvider>
     </ThemeProvider>
   );
